@@ -1,6 +1,6 @@
 # Automated Marketing Analysis Platform
 
-![](https://github.com/Dechannie689/Marketing-Analysis/blob/main/Marketing%20Analysis.png)
+![](https://github.com/Dechannie689/Marketing-Analysis/blob/main/MARKETING%20DASHBOARD.png)
 
 End-to-end multi-channel marketing analytics pipeline built on Microsoft Fabric, unifying Instagram, Pinterest, YouTube, LinkedIn, and website data into a single Power BI reporting suite — covering audience demographics, traffic sources, and lead quality across 5 platforms.
 
@@ -59,5 +59,5 @@ View the full dashboard pdf:
 
 ## 📬 Contact
 
-Built by Thuy Trang · [LinkedIn URL] · [Email]
+Built by [Thuy Trang](https://www.linkedin.com/in/trangthuynguyen6899/) · trangthuynguyen6899@gmail.com
 
