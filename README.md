@@ -53,7 +53,7 @@ The result is a unified marketing intelligence platform covering the period Nov 
 
 The Power BI dashboard serves managers and employees who need a consolidated view of cross-channel performance. Each of the 6 pages is dedicated to one channel, with a shared date slicer (Nov 2025–Mar 2026) and brand filter. Stakeholders can track how audience demographics, geographic reach, and engagement evolve month over month — and compare lead quality against the traffic sources driving site visits.
 
-View the full dashboard pdf: [View the full dashboard PDF](https://github.com/Dechannie689/Marketing-Analysis/blob/main/WEBSITE_LEADS_REPORT.pdf)
+[View the full dashboard PDF](https://github.com/Dechannie689/Marketing-Analysis/blob/main/WEBSITE_LEADS_REPORT.pdf)
 
 ---
 
